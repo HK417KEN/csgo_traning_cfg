@@ -1,0 +1,1 @@
+# csgo_traning_cfg
